@@ -1,10 +1,12 @@
 # Estrategia-de-Pruebas-Ghost-Final---Semana-8
 
-## Repositorios
+## Documentos
 
 [Estrategia de pruebas final](https://github.com/mgdarwin/Estrategia-de-Pruebas-Ghost-Final---Semana-8/blob/main/GRUPO_SEM8_Estrategia%20de%20Pruebas%20-%20TSDC%20-%20Ghost.pdf)
 
 [Inventario pruebas exploratorias](https://github.com/mgdarwin/Estrategia-de-Pruebas-Ghost-Final---Semana-8/blob/main/GRUPO_SEM8_inventario-pruebas-exploratorias.pdf)
+
+## Repositorios
 
 [Repositorio Kraken](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost)
 
