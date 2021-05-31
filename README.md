@@ -6,6 +6,8 @@
 
 [Inventario pruebas exploratorias](https://github.com/mgdarwin/Estrategia-de-Pruebas-Ghost-Final---Semana-8/blob/main/GRUPO_SEM8_inventario-pruebas-exploratorias.pdf)
 
+[Video de resumen estrategia de pruebas, resultados, pros y contras]()
+
 ## Repositorios
 
 [Repositorio Kraken](https://github.com/mauricio-corredor/pruebas-automatizadas-kraken-ghost)
